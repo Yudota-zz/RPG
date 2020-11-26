@@ -1,0 +1,13 @@
+Classes
+
+Bárbaro
+Bardo
+Bruxo
+Clérigo
+Druida
+Feitceiro
+Guerreiro
+Mago
+Monge
+Paladino
+Patrulheiro

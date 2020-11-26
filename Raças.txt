@@ -1,0 +1,39 @@
+Raças
+
+Anão
+    Anão da Colina
+    Anão da Montanha
+Elfo
+    Alto Elfo
+    Elfo da Floresta
+    Elfo Negro (Drow)
+Halfling
+    Halfling Pés Leves
+    Halfling Robusto
+Humano
+Draconato
+Gnomo
+    Gnomo da Floresta
+    Gnomo das Rochas
+Meio-Elfo
+Meio-Orc
+Tiefling
+
+Filtro...
+
+Anão da Colina
+Anão da Montanha
+Alto Elfo
+Elfo da Floresta
+Elfo Negro (Drow)
+Halfling Pés Leves
+Halfling Robusto
+Humano
+Draconato
+Gnomo da Floresta
+Gnomo das Rochas
+Meio-Elfo
+Meio-Orc
+Tiefling
+
+TOTAL = 14 raças
